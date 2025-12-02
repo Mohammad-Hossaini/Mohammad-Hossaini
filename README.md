@@ -1,16 +1,40 @@
-## Hi there 👋
+## 👋 Hi, I'm Mohammad Hossaini  
 
-<!--
-**Mohammad-Hossaini/Mohammad-Hossaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Frontend Developer** from Afghanistan, currently a 4th-year Computer Science student at Kabul University.  
+I build modern, responsive, and user-friendly web interfaces using **React, JavaScript, HTML, CSS, and Bootstrap**.
 
-Here are some ideas to get you started:
+I love turning ideas into clean and functional UI, and I’m actively improving my skills to become a remote React developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Skills & Technologies
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
+- **UI/UX:** Responsive Design, Component-Based Structure, Styled-Components  
+- **Tools:** Git, GitHub, VS Code  
+- **Other Interests:** Web animations, API Integration, Dark/Light Theme design  
+
+---
+
+### 📌 Current Focus
+- Building real-world projects using **React + Laravel APIs**  
+- Improving problem-solving and frontend architecture  
+- Preparing to apply for **remote frontend developer jobs**
+
+---
+
+### 📂 Featured Projects (Will add more soon)
+- 🌐 Dormitory Management System (React + Laravel)  
+- 📘 Library & Book Management Interfaces  
+- 💳 Fee Management UI (React Query + Forms)  
+
+---
+
+### 📫 Contact Me
+- **Email:** mohammad.hossaini@gmail.com *(یا ایمیلی که انتخاب کردی)*  
+- **LinkedIn:** *Add LinkedIn URL here*  
+- **GitHub:** [github.com/Mohammad-Hossaini](https://github.com/Mohammad-Hossaini)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*  
+
