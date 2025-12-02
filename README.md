@@ -1,4 +1,4 @@
-![Frontend Web Developer](https://github.com/username/repo-name/raw/main/Frontend-Web-Developer.png)
+![Frontend Web Developer](Frontend-Web-Developer.png)
 
 # 👋 Hi, I'm Mohammad Hossaini
 
