@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mohammad Hossaini
 
-I’m a **Frontend Developer** from Afghanistan, currently a 4th-year Computer Science student at **Kabul University**.  
+I’m a **Frontend Developer** from Afghanistan and a **recent Computer Science graduate** from **Kabul University**.
 I build modern, responsive, and user-friendly web interfaces using **React, JavaScript, HTML, CSS, and Bootstrap**.
 
 I love turning ideas into clean and functional UI, and I’m actively improving my skills to become a **remote React developer**.
